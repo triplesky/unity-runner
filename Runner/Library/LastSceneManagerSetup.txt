@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Blink/Art/Characters/Stylized/Demo_Characters/DEMO_FreeStylizedHumanMale.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
